@@ -18,4 +18,4 @@ Ini adalah website portofolio pribadi saya. Dibuat sebagai latihan dan bukti kem
 - GitHub Pages
 
 ## Link Website
-[Klik di sini untuk melihat website](https://fauzi012jar.github.io/profil-diri/)
+[Klik di sini untuk melihat website](https://fauzi012jar.github.io/portofolio/)
